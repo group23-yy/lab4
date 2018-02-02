@@ -1,4 +1,5 @@
 <?php
+class Able extends Application {
 
     public function index()
     {
