@@ -17,3 +17,7 @@ application/logs/*
 /vendor/
 /nbproject/private/
 /nbproject/
+.idea/lab4.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
